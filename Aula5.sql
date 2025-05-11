@@ -88,11 +88,11 @@ WHERE id_aluno IN (2,3);
 SELECT * FROM alunos 
 WHERE id_aluno BETWEEN 2 AND 4; 
 
--- Selecione todos os alunos onde nome_aluno comece com a letra C.
+-- Selecione todos os alunos onde nome_aluno comece com a letra B.
 SELECT * FROM alunos 
 WHERE nome_aluno LIKE 'B%';
 
--- Selecione todos os alunos onde nome_aluno termine com a letra A.
+-- Selecione todos os alunos onde nome_aluno termine com a letra E.
 SELECT * FROM alunos 
 WHERE nome_aluno LIKE '%e';
 
