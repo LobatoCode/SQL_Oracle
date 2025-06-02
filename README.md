@@ -6,4 +6,5 @@
 [Aula 6 - Describe, Alter Table Add e Distinct](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula6.sql)<br>
 [Aula 7 - Avg, Sum, Count, Max Min e Upper Lower](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula7.sql)<br>
 [Aula 8 - Concatenando Colunas, Alter Table Modify, Alter Table Drop, Delete e Drop Table](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula8.sql)<br>
-[Aula 9 - Group By](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula9.sql)
+[Aula 9 - Group By](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula9.sql)<br>
+[Aula 10 - Union](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula10.sql)
