@@ -9,4 +9,5 @@
 [Aula 9 - Group By](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula9.sql)<br>
 [Aula 10 - Union](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula10.sql)<br>
 [Aula 11 - Subquery ou Subselect](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula11.sql)<br>
-[Aula 12 - Primary Key e Auto-Incremento](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula12.sql)
+[Aula 12 - Primary Key e Auto-Incremento](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula12.sql)<br>
+[Aula 13 - Foreign Key](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula13.sql)
