@@ -11,4 +11,3 @@
 [Aula 11 - Subquery ou Subselect](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula11.sql)<br>
 [Aula 12 - Primary Key e Auto-Incremento](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula12.sql)<br>
 [Aula 13 - Foreign Key](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula13.sql)<br>
-[Aula 14 - Having](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula14.sql)
