@@ -13,4 +13,5 @@
 [Aula 13 - Foreign Key](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula13.sql)<br>
 [Aula 14 - Primary Key e Auto-Incremento 2](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula14.sql)<br>
 [Aula 15 - Having](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula15.sql)<br>
-[Aula 16 - Inner Join, Left Join, Right Join e Full Join](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula16.sql)
+[Aula 16 - Inner Join, Left Join, Right Join e Full Join](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula16.sql)<br>
+[Aula 17 - Length, Instr e Substr](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula17.sql)
