@@ -15,4 +15,5 @@
 [Aula 15 - Having](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula15.sql)<br>
 [Aula 16 - Inner Join, Left Join, Right Join e Full Join](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula16.sql)<br>
 [Aula 17 - Length, Instr e Substr](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula17.sql)<br>
-[Aula 18 - Trim, Lpad e Rpad](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula18.sql)
+[Aula 18 - Trim, Lpad e Rpad](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula18.sql)<br>
+[Aula 19 - Round, Trunc e Mod](https://github.com/LobatoCode/SQL_Oracle/blob/main/Aula19.sql)
